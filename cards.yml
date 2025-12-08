@@ -2,7 +2,7 @@ build:
    version: "3.0"
 
 cards:
-  message: "Cards MicroService"
+  message: "Cards MicroService via rabbitmq"
   contactDetails:
     name: "Ram"
     email: "dev_ops@companyname.com"
