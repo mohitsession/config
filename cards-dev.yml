@@ -2,7 +2,7 @@ build:
    version: "2.0"
 
 accounts:
-  message: "Account MicroService from Dev config server from git"
+  message: "Cards MicroService from Dev config server from git"
   contactDetails:
     name: "Sham"
     email: "sham@companyname.com"
