@@ -2,7 +2,7 @@ build:
    version: "1.0"
 
 accounts:
-  message: "Account MicroService from Prod config server from git via rabbitmq."
+  message: "Account MicroService from Prod config server from git via rabbitmq 10 Dec."
   contactDetails:
     name: "Rohan"
     email: "rohan@companyname.com"
