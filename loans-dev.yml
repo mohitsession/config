@@ -2,7 +2,7 @@ build:
    version: "2.0"
 
 loans:
-  message: "Loans MicroService from Dev config server from git via rabbitmq."
+  message: "Loans MicroService from Dev config server from git via rabbitmq  10 Dec.."
   contactDetails:
     name: "Sham"
     email: "sham@companyname.com"
